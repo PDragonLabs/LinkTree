@@ -37,10 +37,12 @@ alt="IMAGE ALT TEXT HERE" width="540" height="380" border="10" /></a>
  
 ![alt text][logo]
 
- <video src='https://youtu.be/-vqMLbwdR94' width=540/>
-
  
 
+ 
+caption1 | caption2
+:-: | :-:
+<video src='https://youtu.be/-vqMLbwdR94' width=180/> | <video src='https://youtu.be/-vqMLbwdR94' width=180/>
 
 
 
