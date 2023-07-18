@@ -33,7 +33,7 @@
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "PDragon Labs"
+[logo]: https://yt3.ggpht.com/V7hz585gPwfAWnEZFus77Jw1wZl4NBWtAoIGz8Znek4jy--YDNzZXWSZX6-eMkTJb8Td2BOftg=s600-c-k-c0x00ffffff-no-rj-rp-mo "PDragon Labs"
  
 ![alt text][logo]
 
