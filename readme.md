@@ -2,23 +2,22 @@
 
 ###  Date: 07/18/23
 
-https://huggingface.co/PDragonLabs
+[Huggingface PDragonLabs](https://huggingface.co/PDragonLabs)
 
-https://paypal.me/pdragonlabs?country.x=US&locale.x=en_US
+[PayPal PDragonLabs](https://paypal.me/pdragonlabs?country.x=US&locale.x=en_US)
 
-https://www.patreon.com/PDragonLabs
+[Patreon PDragonLabs](https://www.patreon.com/PDragonLabs)
 
-https://github.com/PDragonLabs
+[GitHub PDragonLabs](https://github.com/PDragonLabs)
 
-https://twitter.com/PDragonLabs
+[PayPal PDragonLabs](https://twitter.com/PDragonLabs)
 
-https://www.twitch.tv/pdragonlabs/about
+[Twitch PDragonLabs](https://www.twitch.tv/pdragonlabs/about)
+ 
 
-https://huggingface.co/PDragonLabs
+[Pics PDragonLabs](https://www.freepik.com/photos/dragon-ai/)
 
-https://www.freepik.com/photos/dragon-ai/
-
-https://my.soundful.com/s/hip_hop/dreamy_trap/64a5b7c8770ad50fdc5f2b1a
+[Sounds PDragonLabs](https://my.soundful.com/s/hip_hop/dreamy_trap/64a5b7c8770ad50fdc5f2b1a)
 
 
 
