@@ -22,10 +22,10 @@
 
 
 
-[Web Page link](https://pdragonlabs.github.io/simple-website-template/)
+[Web Page PDragonLabs](https://pdragonlabs.github.io/simple-website-template/)
 
 
-[Markdown-Cheatsheet ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-vqMLbwdR94
@@ -34,6 +34,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "PDragon Labs"
+ 
+![alt text][logo]
 
 
 
@@ -49,4 +51,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+
 </dl>
+
+[Markdown-Cheatsheet ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
