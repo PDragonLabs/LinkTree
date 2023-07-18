@@ -28,9 +28,7 @@
 
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=-vqMLbwdR94
-" target="_blank"><img src="http://img.youtube.com/vi/-vqMLbwdR94/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="540" height="380" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-vqMLbwdR94" target="_blank"><img src="http://img.youtube.com/vi/-vqMLbwdR94/0.jpg" alt="IMAGE ALT TEXT HERE" width="540" height="380" border="10" /></a>
 
 
 [logo]: https://yt3.ggpht.com/V7hz585gPwfAWnEZFus77Jw1wZl4NBWtAoIGz8Znek4jy--YDNzZXWSZX6-eMkTJb8Td2BOftg=s600-c-k-c0x00ffffff-no-rj-rp-mo "PDragon Labs"
@@ -40,10 +38,6 @@ alt="IMAGE ALT TEXT HERE" width="540" height="380" border="10" /></a>
  
 
  
-caption1 | caption2
-:-: | :-:
-<video src='https://youtu.be/-vqMLbwdR94' width=180/> | <video src='https://youtu.be/-vqMLbwdR94' width=180/>
-
 
 
 <dl>
