@@ -21,10 +21,9 @@ https://www.freepik.com/photos/dragon-ai/
 https://my.soundful.com/s/hip_hop/dreamy_trap/64a5b7c8770ad50fdc5f2b1a
 
 
-Web Page 
 
 
-[Web Page link](https://www.google.com](https://pdragonlabs.github.io/simple-website-template/)
+[Web Page link](https://pdragonlabs.github.io/simple-website-template/)
 
 
 [Markdown-Cheatsheet ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
