@@ -4,6 +4,8 @@
 
 [Huggingface PDragonLabs](https://huggingface.co/PDragonLabs)
 
+[Chatglm2 6b](https://huggingface.co/spaces/mikeee/chatglm2-6b-4bit)
+
 [PayPal PDragonLabs](https://paypal.me/pdragonlabs?country.x=US&locale.x=en_US)
 
 [Patreon PDragonLabs](https://www.patreon.com/PDragonLabs)
