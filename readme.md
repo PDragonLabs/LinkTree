@@ -4,7 +4,15 @@
 
 [Huggingface PDragonLabs](https://huggingface.co/PDragonLabs)
 
-[Chatglm2 6b](https://huggingface.co/spaces/mikeee/chatglm2-6b-4bit)
+[HF Chatglm2 6b](https://huggingface.co/spaces/mikeee/chatglm2-6b-4bit)
+
+<iframe
+	src="https://pdragonlabs-stabilityai-stable-diffusion-2.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+></iframe>
+
 
 [PayPal PDragonLabs](https://paypal.me/pdragonlabs?country.x=US&locale.x=en_US)
 
