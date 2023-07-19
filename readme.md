@@ -12,7 +12,7 @@
 
 [GitHub PDragonLabs](https://github.com/PDragonLabs)
 
-[PayPal PDragonLabs](https://twitter.com/PDragonLabs)
+[Twitter PDragonLabs](https://twitter.com/PDragonLabs)
 
 [Twitch PDragonLabs](https://www.twitch.tv/pdragonlabs/about)
  
