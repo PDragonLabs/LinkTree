@@ -13,6 +13,8 @@
 
 #### Links
 
+[YouTube PDragonLabs](https://www.youtube.com/@PDragonLabs)
+
 [GitHub PDragonLabs](https://github.com/PDragonLabs)
 
 [Twitter PDragonLabs](https://twitter.com/PDragonLabs)
