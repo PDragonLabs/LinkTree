@@ -34,7 +34,9 @@
 [HF LLama Chatbot](https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI)
 
 
+#### Images
 
+[Pics PDragonLabs](https://www.freepik.com/photos/dragon-ai/)
 
 #### Music
 
@@ -48,9 +50,7 @@
 
 
 
-
-[Pics PDragonLabs](https://www.freepik.com/photos/dragon-ai/)
-
+ 
 
 
 
