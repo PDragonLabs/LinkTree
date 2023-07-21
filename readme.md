@@ -21,8 +21,10 @@
 
 [Twitch PDragonLabs](https://www.twitch.tv/pdragonlabs/about)
 
+[Vimeo](https://vimeo.com/pdragonlabs))
 
 
+### HF
 
 [Huggingface PDragonLabs](https://huggingface.co/PDragonLabs)
 
