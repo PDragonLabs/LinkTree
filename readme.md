@@ -23,10 +23,9 @@
 
 [Vimeo PDragonLabs](https://vimeo.com/pdragonlabs)
 
+[Huggingface PDragonLabs](https://huggingface.co/PDragonLabs)
 
 #### HF
-
-[Huggingface PDragonLabs](https://huggingface.co/PDragonLabs)
 
 [HF Chatglm2 6b chat generator](https://huggingface.co/spaces/mikeee/chatglm2-6b-4bit)
 
