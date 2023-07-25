@@ -69,7 +69,7 @@
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-vqMLbwdR94" target="_blank"><img src="http://img.youtube.com/vi/-vqMLbwdR94/0.jpg" alt="IMAGE ALT TEXT HERE" width="540" height="380" border="10" /></a>
 
 
-[logo]: [https://github.com/PDragonLabs/LinkTree/zoomba.png] "PDragon Labs"
+[logo]: (https://github.com/PDragonLabs/LinkTree/zoomba.png) "PDragon Labs"
  
 ![alt text][logo]
 
