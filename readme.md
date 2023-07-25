@@ -71,7 +71,7 @@
 
 [logo]: https://github.com/PDragonLabs/LinkTree/blob/main/zoomba.png "PDragon Labs"
  
-
+![alt text](https://github.com/PDragonLabs/LinkTree/blob/main/zoomba.png?raw=true)
  
 
 
